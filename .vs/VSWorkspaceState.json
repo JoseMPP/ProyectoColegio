@@ -3,8 +3,9 @@
     "",
     "\\Controller",
     "\\Model",
-    "\\View"
+    "\\View",
+    "\\View\\admin"
   ],
-  "SelectedNode": "\\index.php",
+  "SelectedNode": "\\View\\index.html",
   "PreviewInSolutionExplorer": false
 }
